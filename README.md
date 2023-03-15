@@ -12,3 +12,4 @@ A few of the tasks this robot can complete are:
 - Ending the game, and displaying to the user the result, as well as the cumulative score (1 for winning on easy, 2 for winning on medium, 3 for winning on hard) and the option to play again. These scores will also be scored on a file that can be downloaded.
 - If the user selects to end, exiting the code, if the user selects to play again, another board is created.
 
+To view the final report, see the pdf ```S8 Final Report 2022.pdf``` above or click the link <a href="https://1drv.ms/b/s!Are-DBXFp-MYvRyf3Eisvor8FYIC?e=WdYvac"> here</a>
