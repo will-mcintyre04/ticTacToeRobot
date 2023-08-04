@@ -2,7 +2,8 @@
 
 <div align = "center">
   <img src = "https://github.com/will-mcintyre04/ticTacToeRobot/assets/78566536/6b3e0489-df6f-4a4a-8577-e2567067794d" width = "600px"></img>
-  <p>Image showing the rack and pinion movement system (left) and drawing mechanism (right)</p>
+  
+  <sub>Image showing the rack and pinion movement system (left) and drawing mechanism (right)</sub>
 </div>
 
 ## Introduction
